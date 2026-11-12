@@ -5,7 +5,7 @@ CS grad with a minor in Studio Art.
 
 I'm Riiny, 
 
-an AI Associate at Crossbeam based in San Francisco.
+Co-founder and CTO at Bukra based in San Francisco.
 Currently shipping production code and hate systems that suck. 
 
 Working with Python, TypeScript, Next.js, React, Node.js, and Swift. 
